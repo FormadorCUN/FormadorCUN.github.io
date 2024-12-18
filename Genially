@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Segmentación y Perfilación Estratégica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: linear-gradient(90deg, #0e76a8, #00a8e8);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .interactive {
+            margin-top: 20px;
+            padding: 15px;
+            background: #e0f7fa;
+            border-left: 4px solid #00796b;
+            border-radius: 5px;
+        }
+        button {
+            background: #0e76a8;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #005f8c;
+        }
+        .footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Segmentación y Perfilación Estratégica para Asesores Comerciales</h1>
+</header>
+
+<section>
+    <h2>Introducción</h2>
+    <p>
+        Bienvenidos a este curso interactivo. Aquí aprenderás a segmentar y perfilar aspirantes de manera estratégica para mejorar la captación y personalización de mensajes comerciales.
+    </p>
+    <div class="interactive">
+        <strong>Dato:</strong> El 85% de los colaboradores se siente más comprometido en entornos lúdicos.
+    </div>
+</section>
+
+<section>
+    <h2>Objetivos</h2>
+    <ul>
+        <li>Fomentar la motivación y el compromiso en los equipos comerciales.</li>
+        <li>Promover el trabajo en equipo mediante actividades creativas.</li>
+        <li>Diseñar experiencias que fortalezcan la permanencia y el sentido de pertenencia.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Segmentación</h2>
+    <h3>Definición</h3>
+    <p>La segmentación consiste en dividir a los aspirantes en grupos homogéneos según características específicas.</p>
+    <h3>Tipos de Segmentación</h3>
+    <ul>
+        <li>Demográfica: Ejemplo, aspirantes entre 18-25 años.</li>
+        <li>Geográfica: Aspirantes cercanos a la sede Bogotá.</li>
+        <li>Psicográfica: Intereses y estilos de vida.</li>
+        <li>Conductual: Interacción previa con los servicios.</li>
+    </ul>
+    <button onclick="alert('Actividad: Clasifica los aspirantes en diferentes tipos de segmentación.')">Iniciar Actividad</button>
+</section>
+
+<section>
+    <h2>Perfilación</h2>
+    <h3>Definición</h3>
+    <p>La perfilación permite profundizar en las características individuales de los aspirantes dentro de un segmento específico.</p>
+    <h3>Ejemplo de Perfil</h3>
+    <p>María, 22 años, busca flexibilidad académica debido a su trabajo. Está interesada en programas virtuales.</p>
+    <button onclick="alert('Crea un perfil detallado para un segmento específico.')">Crear Perfil</button>
+</section>
+
+<section>
+    <h2>Publicaciones</h2>
+    <h3>Relación con Segmentación y Perfilación</h3>
+    <p>Diseña publicaciones alineadas con las características del segmento y perfil identificado.</p>
+    <h3>Lista de Verificación</h3>
+    <ul>
+        <li>¿El mensaje está alineado con el segmento y perfil?</li>
+        <li>¿Utiliza elementos visuales atractivos?</li>
+        <li>¿Refleja las necesidades del aspirante?</li>
+    </ul>
+    <button onclick="alert('Diseña una publicación para un segmento específico.')">Diseñar Publicación</button>
+</section>
+
+<section>
+    <h2>Reflexión y Cierre</h2>
+    <p>
+        Reflexiona sobre cómo aplicar estos conceptos en tu día a día. Comparte una estrategia con tu equipo para fortalecer la captación y personalización.
+    </p>
+    <div class="interactive">
+        <strong>Ejercicio:</strong> Diseña un plan de comunicación basado en un segmento y perfil.
+    </div>
+</section>
+
+<div class="footer">
+    <p>Curso desarrollado para la CUN | Analista de Formación y Servicio</p>
+</div>
+
+</body>
+</html>
